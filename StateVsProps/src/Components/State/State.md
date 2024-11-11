@@ -1,0 +1,2 @@
+- Mutable and represents the internal state of a component
+- Managed and controlled by the component iteself

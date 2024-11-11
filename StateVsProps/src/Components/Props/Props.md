@@ -1,0 +1,2 @@
+- Read only data passed from parent component to child component
+- Immutable and are used to communicate between components
